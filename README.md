@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam2101s" alt="shivam2101s" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
+
 - 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://shivam21.medium.com/](https://shivam21.medium.com/)
