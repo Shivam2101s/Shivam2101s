@@ -1,4 +1,4 @@
-<p align="center" style="background-color:rgb(10, 2, 31)"> 
+<p align="center"> 
   <img src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
 </p>
 
