@@ -1,4 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/90531603/148161117-400524a5-22a2-4c9d-a1e8-8ddea6f7e5d0.png)](https://github.com/Shivam2101s/)
+<p align="center"> 
+  <img src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
+</p>
 
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam2101s&label=Profile%20views&color=0e75b6&style=flat" alt="shivam2101s" /> </p>
